@@ -1,1 +1,1 @@
-# principles-of-data-analyticss
+# principles-of-data-analytics
