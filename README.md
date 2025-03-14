@@ -1,13 +1,12 @@
 # Principles of Data Analytics
 
 ## Import the Irish data set from Sklearn.datasets
-  Explanation
 load_iris() fromt the sklearn.datasets module loads the iris dataset.
 1. Scikit-learn is installed in python using pip(https://pip.pypa.io/)
 2. Sklearn is imported (https://scikit-learn.org/stable/index.html)
 3. Import iris dataset (https://sklearner.com/scikit-learn-load_iris/)
 
-## : Explore the Data Structure
+## Explore the Data Structure
 
 Explore the data structure - shape, forst 5 rows, the feature name and the target classes.
 1. Panda libriary is imported and used to convert Iris.data  which is in Numpy array to convert to more readable format.
@@ -19,4 +18,7 @@ Explore the data structure - shape, forst 5 rows, the feature name and the targe
 7. (https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html)
 8. (https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html)
 
-## Task 3
+## Summarize the dataset
+
+## Plot the dats set
+
