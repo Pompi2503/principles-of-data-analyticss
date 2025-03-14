@@ -20,5 +20,6 @@ Explore the data structure - shape, forst 5 rows, the feature name and the targe
 
 ## Summarize the dataset
 
-## Plot the dats set
+## Visualise the Features
 
+## 
