@@ -1,1 +1,3 @@
-# principles-of-data-analytics
+# Principles of Data Analytics
+# Purpose
+
