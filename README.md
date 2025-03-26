@@ -8,7 +8,7 @@ The tasks revolves around Iris dataset, which is very popular dataset for machin
 
 ### Prerequisites
 Ensure you have the following installed:  
-Python 3.x  
+Python 3.11
 Jupyter Notebook  
 Required libraries: numpy, pandas, matplotlib, seaborn, sklearn  
 
