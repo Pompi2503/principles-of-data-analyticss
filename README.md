@@ -1,7 +1,8 @@
 # Iris Dataset Analysis
 
 ## Overview
-The tasks assigned explores the famous Iris dataset using Python's sklearn.datasets module. The analysis includes data exploration, statistical summarization, visualization, correlation analysis, and simple linear regression modeling.
+The tasks revolves around Iris dataset, which is very popular dataset for machine lerning and pattern recognition.I have used oython sklearn module to explore this data. other python libraries like numpy and matplotlib and panda dataframework is used to present data in a more readable format, suitable for data analysis. The analysis in these tasks involbe data exploration, statistical summarization, visualisation, correlation analysis, and linear regression modelling.
+
 
 ## Installation and Set-up
 
@@ -19,20 +20,20 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 To run the analysis, open Jupyter Notebook and execute the notebook containing the implementation.  
 task.ipynb  
 
-### Tasks Overview
+## Tasks Overview
 
-#### Task 1: Source the Data Set
+### Task 1: Source the Data Set
  •	Import the Iris dataset from sklearn.datasets.  
  •	The load_iris() function returns a dictionary-like object that contains data attributes, target labels, feature names, and a 
     description of the dataset. The dataset includes 150 samples of iris flowers with four features: sepal length, sepal width, petal length, and petal width.  
 
-#### Task 2: Explore the Data Structure
+### Task 2: Explore the Data Structure
 - Print and explain the dataset shape, which shows the number of samples and features.  
 - Display the first and last five rows of the dataset to get an overview of the data distribution.  
 - List the feature names to understand what measurements are included.  
 - Identify the target classes, which correspond to three species of iris flowers: Setosa, Versicolor, and Virginica.  
 
-#### Task3: Summarize the Data
+### Task3: Summarize the Data
 Calculate key statistical metrics for each feature. These statistics help understand the distribution of each feature across different species.
 - Mean: Average value of each feature.  
 - Minimum: Smallest observed value.  
@@ -40,14 +41,19 @@ Calculate key statistical metrics for each feature. These statistics help unders
 - Standard Deviation: Measure of feature variation.  
 - Median: Middle value when sorted.  
 
-#### Task4: Visualise Features
+### Task 4: Visualise Features
 Create histograms for each feature using matplotlib.  
 - Histograms provide insights into the frequency distribution of each feature and help detect skewness or anomalies.  
 - Titles and axis labels is added to improve readability.  
 
+### Task 5: Investigate Relationship
+- Select two features and create a scatter plot to analyze their relationship.
+- Color-code the points based on species to visually separate the three classes.
+- This visualization helps in identifying clusters or patterns among different iris species.
 
-
-
+### Task 6: Analyze Relationship
+- Use numpy.polyfit to compute and overlay a regression line on the scatter plot from Task 5.
+- This line represents the best linear approximation of the relationship between the two features.
 
 
 
