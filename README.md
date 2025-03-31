@@ -18,7 +18,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ### Usage
 To run the analysis, open Jupyter Notebook and execute the notebook containing the implementation.  
-task.ipynb  
+tasks.ipynb  
 
 ## Tasks Overview
 
