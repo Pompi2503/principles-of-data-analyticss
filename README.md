@@ -55,6 +55,3 @@ Create histograms for each feature using matplotlib.
 - Use numpy.polyfit to compute and overlay a regression line on the scatter plot from Task 5.
 - This line represents the best linear approximation of the relationship between the two features.
 
-
-
-cgnah
