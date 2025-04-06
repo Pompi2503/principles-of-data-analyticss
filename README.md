@@ -55,3 +55,8 @@ Create histograms for each feature using matplotlib.
 - Use numpy.polyfit to compute and overlay a regression line on the scatter plot from Task 5.
 - This line represents the best linear approximation of the relationship between the two features.
 
+### Task 7: Analyse Class Distribution  
+ -  To analyse the distribution of petal lengths across three species in the Iris dataset.  
+ - Present median, interquartile range and outlier in the dataset.  
+ - Present data in visual and interpretable format using box plots
+
