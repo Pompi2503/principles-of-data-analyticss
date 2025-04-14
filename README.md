@@ -70,5 +70,7 @@ Create histograms for each feature using matplotlib.
 - This is perform for predictive analysis between twpo variables of the iris dataset.  
 - by Calculating coeffecient fo determiantion R^2, we will determine how much variance in the petal length is determined by the independent variable.  
 
-
-
+### Task10: Task 10: Too Many Features
+- In this task, we will be using Seaborn to perform an exploratory analysis of variables in Iris dataset and how they vary for 
+  different target class (species).  
+- We are using Pairplot chart from seaborn library to depict relationship between different features in the class. Pairplot will show histogram for each feature as in petal lenght, width etc. It shows scatter plot when we are analyzing diffrent features as petal lenght vs width or sepal width vs lenght. It also shows different points in the plot to identify which target class (species), they belong to.  
