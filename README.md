@@ -58,5 +58,17 @@ Create histograms for each feature using matplotlib.
 ### Task 7: Analyse Class Distribution  
  - To analyse the distribution of petal lengths across three species in the Iris dataset.  
  - Present median, interquartile range and outlier in the dataset.  
- - Present data in visual and interpretable format using box plots
+ - Present data in visual and interpretable format using box plots  
+
+ ### Task8: Compute Correlations
+ - The purpose of this to perform exploratory analysis by visualising pairwise relationship/  
+ - A corrleation matrix is used and heatmapt is used to depict pairwise relationship.  
+ - We can see how variables are related poritively or negatively.  
+
+
+## Task9: To fit a Linear Regression Line
+- This is perform for predictive analysis between twpo variables of the iris dataset.  
+- by Calculating coeffecient fo determiantion R^2, we will determine how much variance in the petal length is determined by the independent variable.  
+
+
 
