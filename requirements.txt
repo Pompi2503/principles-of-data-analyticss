@@ -1,0 +1,6 @@
+jupyter notebook for interactively running the code
+Numpy library
+Matplotlib library
+Pandas
+Seaborn
+Scikit-learn
