@@ -4,7 +4,7 @@
 The tasks revolves around Iris dataset, which is very popular dataset for machine learning and pattern recognition.I have used python sklearn module to explore this data. other python libraries like numpy and matplotlib and panda dataframework is used to present data in a more readable format, suitable for data analysis. The analysis in these tasks involbe data exploration, statistical summarization, visualisation, correlation analysis, and linear regression modelling.
 
 
-## Installation and Set-up
+## Installation and Set-up 
 
 ### Prerequisites
 Ensure you have the following installed:  

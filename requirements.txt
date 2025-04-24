@@ -3,4 +3,4 @@ Numpy library
 Matplotlib library
 Pandas
 Seaborn
-Scikit-learn
+Scikit-learn 
