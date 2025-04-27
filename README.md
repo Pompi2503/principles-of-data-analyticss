@@ -1,7 +1,7 @@
 # Iris Dataset Analysis
 
 ## Overview
-The tasks revolves around Iris dataset, which is very popular dataset for machine learning and pattern recognition.I have used python sklearn module to explore this data. other python libraries like numpy and matplotlib and panda dataframework is used to present data in a more readable format, suitable for data analysis. The analysis in these tasks involbe data exploration, statistical summarization, visualisation, correlation analysis, and linear regression modelling.
+The tasks revolves around Iris dataset, which is very popular dataset for machine learning and pattern recognition.I have used python sklearn module to explore this data. other python libraries like numpy and matplotlib and panda dataframework is used to present data in a more readable format, suitable for data analysis. The analysis in these tasks involve data exploration, statistical summarization, visualisation, correlation analysis, and linear regression modelling.
 
 
 ## Installation and Set-up 
@@ -41,7 +41,7 @@ Calculate key statistical metrics for each feature. These statistics help unders
 - Standard Deviation: Measure of feature variation.  
 - Median: Middle value when sorted.  
 
-### Task 4: Visualise Features
+### Task 4: Visualize Features
 Create histograms for each feature using matplotlib.  
 - Histograms provide insights into the frequency distribution of each feature and help detect skewness or anomalies.  
 - Titles and axis labels is added to improve readability.  
@@ -61,14 +61,14 @@ Create histograms for each feature using matplotlib.
  - Present data in visual and interpretable format using box plots  
 
  ### Task 8: Compute Correlations
- - The purpose of this to perform exploratory analysis by visualising pairwise relationship/  
- - A corrleation matrix is used and heatmapt is used to depict pairwise relationship.  
- - We can see how variables are related poritively or negatively.  
+ - The purpose of this to perform exploratory analysis by visualizing pairwise relationship/  
+ - A correlation matrix is used and heatmap is used to depict pairwise relationship.  
+ - We can see how variables are related positively or negatively.  
 
 
 ## Task 9: To fit a Linear Regression Line
-- This is perform for predictive analysis between twpo variables of the iris dataset.  
-- by Calculating coeffecient fo determiantion R^2, we will determine how much variance in the petal length is determined by the independent variable.  
+- This is perform for predictive analysis between two variables of the iris dataset.  
+- by Calculating coeffecient fo determination R^2, we will determine how much variance in the petal length is determined by the independent variable.  
 
 ### Task 10: Task 10: Too Many Features
 - In this task, we will be using Seaborn to perform an exploratory analysis of variables in Iris dataset and how they vary for 
@@ -77,5 +77,5 @@ Create histograms for each feature using matplotlib.
   show histogram for each feature as in petal length, width etc to depict if the data shows normal distribution, or it is skewed or outlier.  
 - It shows scatter plot when we are analyzing diffrent features as petal length vs width or sepal width vs length. It also shows 
   different points in the plot to identify which target class (species), they belong to.  
-- For Iris datset, with 4 features, pairplot will show 16 plots based on (4*4).  
+- For Iris dataset, with 4 features, pairplot will show 16 plots based on (4*4).  
 
