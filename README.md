@@ -28,7 +28,7 @@ tasks.ipynb
     description of the dataset. The dataset includes 150 samples of iris flowers with four features: sepal length, sepal width, petal length, and petal width.  
 
 ### Task 2: Explore the Data Structure
-- Print and explain the dataset shape, which shows the number of samples and features.  
+- Explain the dataset shape, which shows the number of samples and features and print it.
 - Display the first and last five rows of the dataset to get an overview of the data distribution.  
 - List the feature names to understand what measurements are included.  
 - Identify the target classes, which correspond to three species of iris flowers: Setosa, Versicolor, and Virginica.  
@@ -53,7 +53,7 @@ Create histograms for each feature using matplotlib.
 
 ### Task 6: Analyze Relationship
 - Use numpy.polyfit to compute and overlay a regression line on the scatter plot from Task 5.
-- This line represents the best linear approximation of the relationship between the two features.
+- It represents the best linear approximation of the relationship between the two features.
 
 ### Task 7: Analyse Class Distribution  
  - To analyse the distribution of petal length across three species in the Iris dataset.  
