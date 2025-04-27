@@ -33,7 +33,7 @@ tasks.ipynb
 - List the feature names to understand what measurements are included.  
 - Identify the target classes, which correspond to three species of iris flowers: Setosa, Versicolor, and Virginica.  
 
-### Task3: Summarize the Data
+### Task 3: Summarize the Data
 Calculate key statistical metrics for each feature. These statistics help understand the distribution of each feature across different species.
 - Mean: Average value of each feature.  
 - Minimum: Smallest observed value.  
@@ -60,17 +60,17 @@ Create histograms for each feature using matplotlib.
  - Present median, interquartile range and outlier in the dataset.  
  - Present data in visual and interpretable format using box plots  
 
- ### Task8: Compute Correlations
+ ### Task 8: Compute Correlations
  - The purpose of this to perform exploratory analysis by visualising pairwise relationship/  
  - A corrleation matrix is used and heatmapt is used to depict pairwise relationship.  
  - We can see how variables are related poritively or negatively.  
 
 
-## Task9: To fit a Linear Regression Line
+## Task 9: To fit a Linear Regression Line
 - This is perform for predictive analysis between twpo variables of the iris dataset.  
 - by Calculating coeffecient fo determiantion R^2, we will determine how much variance in the petal length is determined by the independent variable.  
 
-### Task10: Task 10: Too Many Features
+### Task 10: Task 10: Too Many Features
 - In this task, we will be using Seaborn to perform an exploratory analysis of variables in Iris dataset and how they vary for 
   different target class (species).  
 - We are using Pairplot chart from seaborn library to depict relationship between different features in the class. Pairplot will 
